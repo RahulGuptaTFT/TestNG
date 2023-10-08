@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite">
+    <parameter name="text" value="asdfg"></parameter>
+    <test verbose="2" preserve-order="true" name="C:/Users/Rahul Gupta/IdeaProjects/LearnTestNG/src/test/java/Dataprovider">
+        <classes>
+    <class name="finalEvaluation.p">
+        <methods>
+            <include name="pa"/>
+        </methods>
+    </class>
+</classes></test></suite>
